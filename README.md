@@ -51,32 +51,32 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td width="50%">
 
-### Distributed Message Broker
-<a href="https://github.com/Technocrat-dev/Distributed_Broker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Distributed_Broker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
-</a>
+### [Distributed Message Broker](https://github.com/Technocrat-dev/Distributed_Broker)
 
 **Kafka-inspired broker built from scratch in Go**
 
-`Raft Consensus` `gRPC` `Partition Sharding` `100K+ msg/sec`
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 - ▪ HashiCorp Raft for metadata replication
 - ▪ Leader-follower partition replication
 - ▪ Consumer groups with offset tracking
 - ▪ Gzip/Snappy/LZ4 compression
-- ▪ Prometheus metrics & Kubernetes ready
+- ▪ 100K+ msg/sec throughput
 
 </td>
 <td width="50%">
 
-### Fleet Vehicle Gateway
-<a href="https://github.com/Technocrat-dev/Fleet-Vehicle-Gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Fleet-Vehicle-Gateway&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
-</a>
+### [Fleet Vehicle Gateway](https://github.com/Technocrat-dev/Fleet-Vehicle-Gateway) ━ [Live](https://fleet-vehicle-gateway.vercel.app/)
 
-**Real-time fleet monitoring with geofencing** — [→ Live Demo](https://fleet-vehicle-gateway-production.up.railway.app)
+**Real-time fleet monitoring with geofencing**
 
-`FastAPI` `Next.js` `WebSocket` `PostgreSQL` `OAuth`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
 - ▪ 50 vehicles with real-time telemetry
 - ▪ Interactive polygon geofence drawing
@@ -89,14 +89,14 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td width="50%">
 
-### AI Occupancy Analytics
-<a href="https://github.com/Technocrat-dev/AI-occupancy-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=AI-occupancy-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
-</a>
+### [AI Occupancy Analytics](https://github.com/Technocrat-dev/AI-occupancy-analytics)
 
 **Enterprise occupancy detection with multi-camera fusion**
 
-`YOLOv11` `DeepSort` `FastAPI` `WebSocket`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-FF6F00?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - ▪ Real-time person tracking & re-ID
 - ▪ Multi-camera deduplication
@@ -107,14 +107,14 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### RAG Chatbot
-<a href="https://github.com/Technocrat-dev/RAG_CHATBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=RAG_CHATBOT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
-</a>
+### [RAG Chatbot](https://github.com/Technocrat-dev/RAG_CHATBOT)
 
 **Self-correcting RAG with multi-modal document processing**
 
-`LangChain` `ChromaDB` `Ollama` `Next.js`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 - ▪ Iterative hallucination detection
 - ▪ Hybrid search (BM25 + Dense vectors)
@@ -127,15 +127,13 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td colspan="2" align="center">
 
-### Privacy Edge AI Vision Gateway
+### [Privacy Edge AI Vision Gateway](https://github.com/Technocrat-dev/Privacy_Edge_AI_Vision_Gateway)
 
 **Privacy-preserving video surveillance with 4.2x speedup**
 
-<a href="https://github.com/Technocrat-dev/Privacy_Edge_AI_Vision_Gateway">
-  <img src="https://img.shields.io/badge/YOLOv11-Pose_Estimation-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenVINO-INT8_Quantization-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Latency-9.6ms-green?style=for-the-badge"/>
-</a>
+![YOLOv11](https://img.shields.io/badge/YOLOv11-Pose_Estimation-purple?style=flat-square)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-INT8-0068b5?style=flat-square)
+![Latency](https://img.shields.io/badge/Latency-9.6ms-green?style=flat-square)
 
 > GDPR/APPI compliant PII redaction using skeleton-based head detection • SHA-256 chain of custody • Producer-consumer threading
 
@@ -151,16 +149,19 @@ I believe great software is built where **systems thinking meets practical engin
 
 <!-- Skill Icons -->
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,rust&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,js,java,cpp&theme=dark" alt="Languages"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tailwind&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind&theme=dark" alt="Frameworks"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,kafka&theme=dark" alt="Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,redis,kafka&theme=dark" alt="Infrastructure"/>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,linux,git,github&theme=dark" alt="Cloud"/>
 </p>
 
 </div>
@@ -168,19 +169,19 @@ I believe great software is built where **systems thinking meets practical engin
 ### By Category
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  LANGUAGES        Go • Python • TypeScript • Rust • SQL                 │
-├─────────────────────────────────────────────────────────────────────────┤
-│  BACKEND          FastAPI • gRPC • WebSocket • GraphQL • Kafka          │
-├─────────────────────────────────────────────────────────────────────────┤
-│  FRONTEND         Next.js • React • Tailwind • Leaflet • Recharts       │
-├─────────────────────────────────────────────────────────────────────────┤
-│  ML / CV          YOLO • DeepSort • OpenVINO • LangChain • ChromaDB     │
-├─────────────────────────────────────────────────────────────────────────┤
-│  INFRASTRUCTURE   Docker • Kubernetes • PostgreSQL • Redis • Prometheus │
-├─────────────────────────────────────────────────────────────────────────┤
-│  CLOUD            Railway • Vercel • GCP • AWS                          │
-└─────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  LANGUAGES        Go • Python • TypeScript • JavaScript • SQL • C++ • Java   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  ML / AI          LLMs • RAG • PyTorch • TensorFlow • Scikit-learn • OpenCV  │
+│                   LangChain • LangGraph • ONNX                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS       Next.js • React • FastAPI • Node.js • Tailwind • gRPC      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  INFRASTRUCTURE   Docker • Kubernetes • PostgreSQL • MongoDB • ChromaDB      │
+│                   Redis • Kafka • Prometheus                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  CLOUD & TOOLS    GCP • Git • GitHub Actions • Linux                         │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -188,11 +189,6 @@ I believe great software is built where **systems thinking meets practical engin
 ## ▸ GitHub Analytics
 
 <div align="center">
-  
-<a href="https://github.com/Technocrat-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocrat-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</a>
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
@@ -236,4 +232,4 @@ I believe great software is built where **systems thinking meets practical engin
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
