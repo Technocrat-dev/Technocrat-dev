@@ -53,7 +53,7 @@ I believe great software is built where **systems thinking meets practical engin
 
 ### Distributed Message Broker
 <a href="https://github.com/Technocrat-dev/Distributed_Broker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Distributed_Broker&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Distributed_Broker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
 </a>
 
 **Kafka-inspired broker built from scratch in Go**
@@ -71,7 +71,7 @@ I believe great software is built where **systems thinking meets practical engin
 
 ### Fleet Vehicle Gateway
 <a href="https://github.com/Technocrat-dev/Fleet-Vehicle-Gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Fleet-Vehicle-Gateway&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=Fleet-Vehicle-Gateway&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
 </a>
 
 **Real-time fleet monitoring with geofencing** — [→ Live Demo](https://fleet-vehicle-gateway-production.up.railway.app)
@@ -89,9 +89,9 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td width="50%">
 
-### AI Chair Occupancy Analytics
+### AI Occupancy Analytics
 <a href="https://github.com/Technocrat-dev/AI-occupancy-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=AI-occupancy-analytics&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=AI-occupancy-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
 </a>
 
 **Enterprise occupancy detection with multi-camera fusion**
@@ -107,9 +107,9 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### NeuralRAG
+### RAG Chatbot
 <a href="https://github.com/Technocrat-dev/RAG_CHATBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=RAG_CHATBOT&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocrat-dev&repo=RAG_CHATBOT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true"/>
 </a>
 
 **Self-correcting RAG with multi-modal document processing**
@@ -190,8 +190,8 @@ I believe great software is built where **systems thinking meets practical engin
 <div align="center">
   
 <a href="https://github.com/Technocrat-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocrat-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocrat-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 <!-- GitHub Streak -->
@@ -208,11 +208,11 @@ I believe great software is built where **systems thinking meets practical engin
 
 <div align="center">
 
-| Building | Learning | Open To |
-|----------|----------|---------|
-| Edge ML inference pipelines | Rust for systems programming | Backend/Systems collaborations |
-| Real-time streaming platforms | Advanced consensus algorithms | Open source contributions |
-| Production data architectures | eBPF & kernel engineering | Interesting challenges |
+| Learning | Open To |
+|----------|---------|
+| Go microservices & Kubernetes operators | Backend/Systems collaborations |
+| Terraform & Infrastructure as Code | Open source contributions |
+| Cloud-native architectures (GKE/EKS) | Interesting challenges |
 
 </div>
 
@@ -231,7 +231,7 @@ I believe great software is built where **systems thinking meets practical engin
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
