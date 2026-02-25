@@ -1,16 +1,16 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:0d1117&height=200&section=header&text=Manas%20Sharma&fontSize=50&fontColor=4afa82&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20scale%20|%20Crafting%20intelligent%20machines&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:142a2a,100:0d1117&height=200&section=header&text=Manas%20Sharma&fontSize=50&fontColor=43aa8b&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20scale%20|%20Crafting%20intelligent%20machines&descSize=16&descAlignY=55&descAlign=50"/>
 
 <div align="center">
   
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4AFA82&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Go+%E2%80%A2+Microservices+%E2%80%A2+ML+%E2%80%A2+Kubernetes" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=43AA8B&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Go+%E2%80%A2+Microservices+%E2%80%A2+ML+%E2%80%A2+Cloud+Native" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/Technocrat-dev"><img src="https://img.shields.io/badge/GitHub-Technocrat--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manas1104/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Technocrat-dev&style=for-the-badge&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=Technocrat-dev&style=for-the-badge&color=2d6a4f"/>
 </p>
 
 </div>
@@ -192,12 +192,12 @@ I believe great software is built where **systems thinking meets practical engin
 │  LANGUAGES        Go • Python • TypeScript • JavaScript • SQL • C++ • Java   │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  ML / AI          LLMs • RAG • PyTorch • Scikit-learn • OpenCV • ONNX        │
-│                   LangChain • BERTScore • Prompt Engineering                 │
+│                   LangChain • Prompt Engineering                             │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  FRAMEWORKS       Next.js • React • FastAPI • Node.js • Tailwind • gRPC      │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  INFRASTRUCTURE   Docker • Kubernetes • PostgreSQL • MongoDB • ChromaDB      │
-│                   Redis • Kafka • Prometheus • Terraform                     │
+│                   Redis • Kafka • Prometheus                                 │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  CLOUD & TOOLS    GCP • GKE • BigQuery • Git • GitHub Actions • Linux        │
 └──────────────────────────────────────────────────────────────────────────────┘
@@ -209,12 +209,16 @@ I believe great software is built where **systems thinking meets practical engin
 
 <div align="center">
 
-<!-- GitHub Stats + Streak side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4afa82&icon_color=e63946&text_color=c9d1d9&ring_color=4afa82" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=4afa82&ring=4afa82&fire=e63946&currStreakLabel=4afa82&sideLabels=4afa82&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Technocrat-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Technocrat-dev&hide_border=true&bg_color=0d1117&color=4afa82&line=4afa82&point=e63946"/>
+<br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=43aa8b&ring=43aa8b&fire=e63946&currStreakLabel=43aa8b&sideLabels=43aa8b&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocrat-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=43aa8b&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -227,7 +231,7 @@ I believe great software is built where **systems thinking meets practical engin
 | Building | Learning | Open To |
 |----------|----------|---------|
 | Go microservices at scale | Kubernetes operators & CRDs | Backend/Platform engineering roles |
-| Real-time data pipelines | Terraform & Infrastructure as Code | Open source collaborations |
+| Real-time data pipelines | GCP & cloud-native patterns | Open source collaborations |
 | Production ML systems | Cloud-native architectures (GKE) | Interesting challenges |
 
 </div>
@@ -252,4 +256,4 @@ I believe great software is built where **systems thinking meets practical engin
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:142a2a,100:0d1117&height=120&section=footer"/>
