@@ -4,7 +4,7 @@
 <div align="center">
   
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Distributed+Systems+%E2%80%A2+Computer+Vision+%E2%80%A2+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Distributed+Systems+%E2%80%A2+VLM+Pipelines+%E2%80%A2+Production+ML" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -22,26 +22,22 @@
 ```typescript
 const manas = {
     pronouns: "he" | "him",
-    focus: ["Distributed Systems", "Computer Vision", "Production ML"],
-    currentlyBuilding: "Edge-to-cloud data pipelines & real-time inference systems",
-    askMeAbout: ["Raft consensus", "gRPC", "YOLO", "FastAPI", "System design"],
+    focus: ["Distributed Systems", "VLM Pipelines", "Production ML"],
+    currentlyBuilding: "VLM evaluation pipelines & real-time data gateways",
+    askMeAbout: ["Raft consensus", "gRPC", "prompt engineering", "FastAPI", "system design"],
     funFact: "I built a Kafka alternative from scratch in Go"
 };
 ```
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"/>
 
 ### What Drives Me
 
 I'm passionate about building **production-grade systems** that solve complex problems at scale. My sweet spot lies at the intersection of:
 
-- **Distributed Infrastructure** → Consensus protocols, message brokers, fault tolerance
-- **Intelligent Vision** → Real-time detection, edge computing, privacy-preserving AI
-- **Full-Stack Platforms** → End-to-end pipelines with beautiful interfaces
+- **Distributed Infrastructure** — Consensus protocols, message brokers, fault tolerance
+- **Intelligent Vision & NLP** — VLM pipelines, autonomous driving perception, real-time detection
+- **Full-Stack Platforms** — End-to-end ML systems with polished interfaces
 
 I believe great software is built where **systems thinking meets practical engineering**.
-
-<br clear="right"/>
 
 ---
 
@@ -89,6 +85,44 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td width="50%">
 
+### [Driving Scene Generator](https://github.com/Technocrat-dev/Driver-Scene)
+
+**VLM pipeline for autonomous driving perception**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- ▪ 8 prompt variants (zero-shot to CoT+grounding)
+- ▪ 8-metric eval (BERTScore, hallucination, spatial)
+- ▪ AI error analysis agent + auto-prompt fix
+- ▪ BDD100K dataset with stratified sampling
+- ▪ Fine-tuning data export (LoRA/QLoRA)
+
+</td>
+<td width="50%">
+
+### [PriceScope](https://github.com/Technocrat-dev/Marketplace-Price-Prediction)
+
+**Multimodal deep learning for price prediction**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- ▪ 1.48M Mercari listings, 0.430 RMSLE
+- ▪ BiLSTM + Attention + MLP fusion
+- ▪ Optuna tuning + SHAP explainability
+- ▪ ONNX export with validation
+- ▪ Full stack: API + Frontend + Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [AI Occupancy Analytics](https://github.com/Technocrat-dev/AI-occupancy-analytics)
 
 **Enterprise occupancy detection with multi-camera fusion**
@@ -107,35 +141,20 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### [RAG Chatbot](https://github.com/Technocrat-dev/RAG_CHATBOT)
+### [NeuralRAG](https://github.com/Technocrat-dev/RAG_CHATBOT)
 
 **Self-correcting RAG with multi-modal document processing**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)
 
 - ▪ Iterative hallucination detection
 - ▪ Hybrid search (BM25 + Dense vectors)
 - ▪ Legal/Financial/Technical handlers
 - ▪ Cross-encoder reranking
 - ▪ Streaming responses with logs
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### [Privacy Edge AI Vision Gateway](https://github.com/Technocrat-dev/Privacy_Edge_AI_Vision_Gateway)
-
-**Privacy-preserving video surveillance with 4.2x speedup**
-
-![YOLOv11](https://img.shields.io/badge/YOLOv11-Pose_Estimation-purple?style=flat-square)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-INT8-0068b5?style=flat-square)
-![Latency](https://img.shields.io/badge/Latency-9.6ms-green?style=flat-square)
-
-> GDPR/APPI compliant PII redaction using skeleton-based head detection • SHA-256 chain of custody • Producer-consumer threading
 
 </td>
 </tr>
@@ -172,8 +191,8 @@ I believe great software is built where **systems thinking meets practical engin
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  LANGUAGES        Go • Python • TypeScript • JavaScript • SQL • C++ • Java   │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  ML / AI          LLMs • RAG • PyTorch • TensorFlow • Scikit-learn • OpenCV  │
-│                   LangChain • LangGraph • ONNX                               │
+│  ML / AI          VLMs • RAG • PyTorch • Scikit-learn • OpenCV • ONNX        │
+│                   LangChain • BERTScore • Prompt Engineering                 │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  FRAMEWORKS       Next.js • React • FastAPI • Node.js • Tailwind • gRPC      │
 ├──────────────────────────────────────────────────────────────────────────────┤
@@ -190,8 +209,9 @@ I believe great software is built where **systems thinking meets practical engin
 
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
+<!-- GitHub Stats + Streak side by side -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Technocrat-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b"/>
@@ -204,11 +224,11 @@ I believe great software is built where **systems thinking meets practical engin
 
 <div align="center">
 
-| Learning | Open To |
-|----------|---------|
-| Go microservices & Kubernetes operators | Backend/Systems collaborations |
-| Terraform & Infrastructure as Code | Open source contributions |
-| Cloud-native architectures (GKE/EKS) | Interesting challenges |
+| Building | Learning | Open To |
+|----------|----------|---------|
+| VLM evaluation pipelines | Kubernetes operators | Backend/Systems roles |
+| Real-time data gateways | Cloud-native (GKE/EKS) | Open source collaborations |
+| Production ML systems | Terraform & IaC | Interesting challenges |
 
 </div>
 
