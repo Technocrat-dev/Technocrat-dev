@@ -1,16 +1,16 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Manas%20Sharma&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20scale%20|%20Crafting%20intelligent%20machines&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:0d1117&height=200&section=header&text=Manas%20Sharma&fontSize=50&fontColor=4afa82&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20scale%20|%20Crafting%20intelligent%20machines&descSize=16&descAlignY=55&descAlign=50"/>
 
 <div align="center">
   
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Distributed+Systems+%E2%80%A2+VLM+Pipelines+%E2%80%A2+Production+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4AFA82&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Software+Engineer+%7C+Systems+Architect;Go+%E2%80%A2+Microservices+%E2%80%A2+ML+%E2%80%A2+Kubernetes" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/Technocrat-dev"><img src="https://img.shields.io/badge/GitHub-Technocrat--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manas1104/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Technocrat-dev&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=Technocrat-dev&style=for-the-badge&color=brightgreen"/>
 </p>
 
 </div>
@@ -22,9 +22,9 @@
 ```typescript
 const manas = {
     pronouns: "he" | "him",
-    focus: ["Distributed Systems", "VLM Pipelines", "Production ML"],
-    currentlyBuilding: "VLM evaluation pipelines & real-time data gateways",
-    askMeAbout: ["Raft consensus", "gRPC", "prompt engineering", "FastAPI", "system design"],
+    focus: ["Distributed Systems", "Microservices", "Production ML"],
+    currentlyBuilding: "Go microservices & real-time data pipelines on Kubernetes",
+    askMeAbout: ["Raft consensus", "gRPC", "Kubernetes", "FastAPI", "system design"],
     funFact: "I built a Kafka alternative from scratch in Go"
 };
 ```
@@ -34,8 +34,8 @@ const manas = {
 I'm passionate about building **production-grade systems** that solve complex problems at scale. My sweet spot lies at the intersection of:
 
 - **Distributed Infrastructure** — Consensus protocols, message brokers, fault tolerance
-- **Intelligent Vision & NLP** — VLM pipelines, autonomous driving perception, real-time detection
-- **Full-Stack Platforms** — End-to-end ML systems with polished interfaces
+- **Microservices & Platform Engineering** — Kubernetes, gRPC, observability, CI/CD
+- **Full-Stack ML Platforms** — End-to-end pipelines with polished interfaces
 
 I believe great software is built where **systems thinking meets practical engineering**.
 
@@ -87,15 +87,15 @@ I believe great software is built where **systems thinking meets practical engin
 
 ### [Driving Scene Generator](https://github.com/Technocrat-dev/Driver-Scene)
 
-**VLM pipeline for autonomous driving perception**
+**Automated pipeline for autonomous driving perception**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- ▪ 8 prompt variants (zero-shot to CoT+grounding)
-- ▪ 8-metric eval (BERTScore, hallucination, spatial)
+- ▪ 8 prompt variants (zero-shot → CoT+grounding)
+- ▪ 8-metric evaluation framework
 - ▪ AI error analysis agent + auto-prompt fix
 - ▪ BDD100K dataset with stratified sampling
 - ▪ Fine-tuning data export (LoRA/QLoRA)
@@ -191,15 +191,15 @@ I believe great software is built where **systems thinking meets practical engin
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  LANGUAGES        Go • Python • TypeScript • JavaScript • SQL • C++ • Java   │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  ML / AI          VLMs • RAG • PyTorch • Scikit-learn • OpenCV • ONNX        │
+│  ML / AI          LLMs • RAG • PyTorch • Scikit-learn • OpenCV • ONNX        │
 │                   LangChain • BERTScore • Prompt Engineering                 │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  FRAMEWORKS       Next.js • React • FastAPI • Node.js • Tailwind • gRPC      │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  INFRASTRUCTURE   Docker • Kubernetes • PostgreSQL • MongoDB • ChromaDB      │
-│                   Redis • Kafka • Prometheus                                 │
+│                   Redis • Kafka • Prometheus • Terraform                     │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  CLOUD & TOOLS    GCP • Git • GitHub Actions • Linux                         │
+│  CLOUD & TOOLS    GCP • GKE • BigQuery • Git • GitHub Actions • Linux        │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -210,11 +210,11 @@ I believe great software is built where **systems thinking meets practical engin
 <div align="center">
 
 <!-- GitHub Stats + Streak side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Technocrat-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4afa82&icon_color=e63946&text_color=c9d1d9&ring_color=4afa82" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=4afa82&ring=4afa82&fire=e63946&currStreakLabel=4afa82&sideLabels=4afa82&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Technocrat-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Technocrat-dev&hide_border=true&bg_color=0d1117&color=4afa82&line=4afa82&point=e63946"/>
 
 </div>
 
@@ -226,9 +226,9 @@ I believe great software is built where **systems thinking meets practical engin
 
 | Building | Learning | Open To |
 |----------|----------|---------|
-| VLM evaluation pipelines | Kubernetes operators | Backend/Systems roles |
-| Real-time data gateways | Cloud-native (GKE/EKS) | Open source collaborations |
-| Production ML systems | Terraform & IaC | Interesting challenges |
+| Go microservices at scale | Kubernetes operators & CRDs | Backend/Platform engineering roles |
+| Real-time data pipelines | Terraform & Infrastructure as Code | Open source collaborations |
+| Production ML systems | Cloud-native architectures (GKE) | Interesting challenges |
 
 </div>
 
@@ -252,4 +252,4 @@ I believe great software is built where **systems thinking meets practical engin
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e1a,100:0d1117&height=120&section=footer"/>
