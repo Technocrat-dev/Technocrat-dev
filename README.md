@@ -209,16 +209,13 @@ I believe great software is built where **systems thinking meets practical engin
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Technocrat-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-<br/>
-
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=43aa8b&ring=43aa8b&fire=e63946&currStreakLabel=43aa8b&sideLabels=43aa8b&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocrat-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=43aa8b&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Technocrat-dev&hide_border=true&bg_color=0d1117&color=43aa8b&line=43aa8b&point=e63946&area=true&area_color=1a3a2a" alt="Activity Graph"/>
 
 </div>
 
