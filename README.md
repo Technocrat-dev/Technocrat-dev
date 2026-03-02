@@ -24,10 +24,12 @@
 ```typescript
 const manas = {
     pronouns: "he" | "him",
-    focus: ["Distributed Systems", "Microservices", "Production ML"],
-    currentlyBuilding: "Go microservices & real-time data pipelines on Kubernetes",
-    askMeAbout: ["Raft consensus", "gRPC", "Kubernetes", "FastAPI", "system design"],
-    funFact: "I built a Kafka alternative from scratch in Go"
+    focus: ["Distributed Systems", "Microservices",
+            "Production ML"],
+    building: "Go microservices & real-time pipelines",
+    askMeAbout: ["Raft", "gRPC", "K8s", "FastAPI",
+                 "system design"],
+    funFact: "Built a Kafka alternative in Go"
 };
 ```
 
