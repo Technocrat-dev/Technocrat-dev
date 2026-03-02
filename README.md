@@ -19,38 +19,38 @@
 
 ## ▸ About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="240" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" alt=""/>
 
-▸ **Focus:** Distributed Systems · Microservices · Production ML
+```typescript
+const manas = {
+  focus: [
+    "Distributed Systems",
+    "Microservices",
+    "Production ML"
+  ],
+  building: "Go microservices &"
+    + " real-time data pipelines",
+  askMeAbout: [
+    "Raft consensus", "gRPC",
+    "K8s", "FastAPI",
+    "system design"
+  ],
+  funFact: "Built a Kafka"
+    + " alternative in Go"
+};
+```
 
-▸ **Building:** Go microservices & real-time data pipelines
+<br clear="right"/>
 
-▸ **Ask me about:** Raft consensus · gRPC · K8s · FastAPI · System Design
-
-▸ **Fun fact:** I built a Kafka alternative from scratch in Go
-
-<br/>
-
-**What Drives Me**
+### What Drives Me
 
 I'm passionate about building **production-grade systems** that solve complex problems at scale. My sweet spot lies at the intersection of:
 
-▪ **Distributed Infrastructure** — Consensus protocols, message brokers, fault tolerance<br/>
-▪ **Microservices & Platform Engineering** — Kubernetes, gRPC, observability, CI/CD<br/>
-▪ **Full-Stack ML Platforms** — End-to-end pipelines with polished interfaces
+- **Distributed Infrastructure** — Consensus protocols, message brokers, fault tolerance
+- **Microservices & Platform Engineering** — Kubernetes, gRPC, observability, CI/CD
+- **Full-Stack ML Platforms** — End-to-end pipelines with polished interfaces
 
 > *Great software is built where **systems thinking** meets **practical engineering**.*
-
-</td>
-<td valign="middle" align="center" width="40%">
-
-<img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="280" alt="Constellation Animation"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
