@@ -19,24 +19,15 @@
 
 ## ▸ About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" alt=""/>
+<img align="right" width="200" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" alt=""/>
 
 ```typescript
 const manas = {
-  focus: [
-    "Distributed Systems",
-    "Microservices",
-    "Production ML"
-  ],
-  building: "Go microservices &"
-    + " real-time data pipelines",
-  askMeAbout: [
-    "Raft consensus", "gRPC",
-    "K8s", "FastAPI",
-    "system design"
-  ],
-  funFact: "Built a Kafka"
-    + " alternative in Go"
+  pronouns: "he" | "him",
+  focus: ["Distributed Systems", "Microservices", "Production ML"],
+  building: "Go microservices & real-time data pipelines",
+  askMeAbout: ["Raft consensus", "gRPC", "K8s", "FastAPI", "system design"],
+  funFact: "I built a Kafka alternative from scratch in Go"
 };
 ```
 
