@@ -19,9 +19,7 @@
 
 ## ▸ About Me
 
-<table>
-<tr>
-<td width="65%">
+<img align="right" alt="Constellation Animation" width="300" src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif"/>
 
 ```typescript
 const manas = {
@@ -42,15 +40,6 @@ I'm passionate about building **production-grade systems** that solve complex pr
 - **Full-Stack ML Platforms** — End-to-end pipelines with polished interfaces
 
 I believe great software is built where **systems thinking meets practical engineering**.
-
-</td>
-<td width="35%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300" alt="Constellation Animation"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
