@@ -26,7 +26,7 @@ const manas = {
   pronouns: "he" | "him",
   currently: "Backend Engineering Intern @ RupeeFlo (fintech)",
   focus: ["Distributed Systems", "Backend Engineering", "Production ML"],
-  building: "NRI banking infrastructure — Django, Celery, Redis at fintech scale",
+  building: "NRI banking infrastructure with Django, Celery, and Redis",
   askMeAbout: ["Raft consensus", "gRPC", "K8s", "Django", "system design"],
   funFact: "I built a Kafka-style broker in Go that pushes 100K+ msg/sec"
 };
@@ -38,9 +38,9 @@ const manas = {
 
 I'm passionate about building **production-grade systems** that solve complex problems at scale. My sweet spot lies at the intersection of:
 
-- **Distributed Infrastructure** — Consensus protocols, message brokers, fault tolerance
-- **Microservices & Platform Engineering** — Kubernetes, gRPC, observability, CI/CD
-- **Full-Stack ML Platforms** — End-to-end pipelines with polished interfaces
+- **Distributed Infrastructure**: Consensus protocols, message brokers, fault tolerance
+- **Microservices & Platform Engineering**: Kubernetes, gRPC, observability, CI/CD
+- **Full-Stack ML Platforms**: End-to-end pipelines with polished interfaces
 
 > *Great software is built where **systems thinking** meets **practical engineering**.*
 
@@ -48,10 +48,10 @@ I'm passionate about building **production-grade systems** that solve complex pr
 
 ## ▸ Experience
 
-**Backend Engineering Intern** — RupeeFlo (Fintech) · *May 2026 – Present*
+**Backend Engineering Intern** @ RupeeFlo (Fintech) · *May 2026 – Present*
 NRI banking & investment infrastructure. Migrated doc-generation pipelines into the core Django backend with a 0%-divergence parity harness; designed a 3-tier OTP fallback (WhatsApp → SMS → voice) on Celery/Redis with atomic SETNX locks; shipped an AI support draft generator to production (LLM tool-use, 10–13s drafts, 70% coverage on real tickets).
 
-**Machine Learning Intern** — Reliance Industries Ltd., Video Analytics · *May 2025 – Jul 2025*
+**Machine Learning Intern** @ Reliance Industries Ltd., Video Analytics · *May 2025 – Jul 2025*
 Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP streams at 30+ FPS; multi-camera spatial deduplication across overlapping FOVs.
 
 ---
@@ -64,7 +64,7 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 
 ### [Distributed Message Broker](https://github.com/Technocrat-dev/Distributed_Broker)
 
-**Kafka-inspired broker in Go — HashiCorp Raft + my own storage & replication layers**
+**Kafka-inspired broker in Go: HashiCorp Raft + my own storage & replication layers**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
@@ -264,7 +264,7 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* (John Johnson)
 
 </div>
 
