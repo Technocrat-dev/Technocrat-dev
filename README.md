@@ -24,10 +24,11 @@
 ```typescript
 const manas = {
   pronouns: "he" | "him",
-  focus: ["Distributed Systems", "Microservices", "Production ML"],
-  building: "Go microservices & real-time data pipelines",
-  askMeAbout: ["Raft consensus", "gRPC", "K8s", "FastAPI", "system design"],
-  funFact: "I built a Kafka alternative from scratch in Go"
+  currently: "Backend Engineering Intern @ RupeeFlo (fintech)",
+  focus: ["Distributed Systems", "Backend Engineering", "Production ML"],
+  building: "NRI banking infrastructure — Django, Celery, Redis at fintech scale",
+  askMeAbout: ["Raft consensus", "gRPC", "K8s", "Django", "system design"],
+  funFact: "I built a Kafka-style broker in Go that pushes 100K+ msg/sec"
 };
 ```
 
@@ -45,6 +46,16 @@ I'm passionate about building **production-grade systems** that solve complex pr
 
 ---
 
+## ▸ Experience
+
+**Backend Engineering Intern** — RupeeFlo (Fintech) · *May 2026 – Present*
+NRI banking & investment infrastructure. Migrated doc-generation pipelines into the core Django backend with a 0%-divergence parity harness; designed a 3-tier OTP fallback (WhatsApp → SMS → voice) on Celery/Redis with atomic SETNX locks; shipped an AI support draft generator to production (LLM tool-use, 10–13s drafts, 70% coverage on real tickets).
+
+**Machine Learning Intern** — Reliance Industries Ltd., Video Analytics · *May 2025 – Jul 2025*
+Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP streams at 30+ FPS; multi-camera spatial deduplication across overlapping FOVs.
+
+---
+
 ## ▸ Featured Projects
 
 <table>
@@ -53,7 +64,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
 
 ### [Distributed Message Broker](https://github.com/Technocrat-dev/Distributed_Broker)
 
-**Kafka-inspired broker built from scratch in Go**
+**Kafka-inspired broker in Go — HashiCorp Raft + my own storage & replication layers**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
@@ -82,7 +93,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
 - ▪ Interactive polygon geofence drawing
 - ▪ Google/GitHub OAuth + RBAC
 - ▪ CI/CD with GitHub Actions
-- ▪ Deployed on Railway + Vercel
+- ▪ Deployed on GCP Cloud Run + Vercel
 
 </td>
 </tr>
@@ -175,7 +186,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
   <img src="https://skillicons.dev/icons?i=go,python,typescript,js,java,cpp&theme=dark" alt="Languages"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,tailwind&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,nodejs,tailwind&theme=dark" alt="Frameworks"/>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,redis,kafka&theme=dark" alt="Infrastructure"/>
@@ -198,7 +209,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
 │  ML / AI          LLMs • RAG • PyTorch • Scikit-learn • OpenCV • ONNX        │
 │                   LangChain • Prompt Engineering                             │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  FRAMEWORKS       Next.js • React • FastAPI • Node.js • Tailwind • gRPC      │
+│  FRAMEWORKS       Django/DRF • Celery • FastAPI • Next.js • React • gRPC     │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  INFRASTRUCTURE   Docker • Kubernetes • PostgreSQL • MongoDB • ChromaDB      │
 │                   Redis • Kafka • Prometheus                                 │
@@ -214,7 +225,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=43aa8b&ring=43aa8b&fire=e63946&currStreakLabel=43aa8b&sideLabels=43aa8b&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Technocrat-dev&hide_border=true&background=0d1117&stroke=43aa8b&ring=43aa8b&fire=e63946&currStreakLabel=43aa8b&sideLabels=43aa8b&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak"/>
 
 <br/>
 
@@ -231,8 +242,8 @@ I'm passionate about building **production-grade systems** that solve complex pr
 
 | Building | Learning | Open To |
 |----------|----------|---------|
-| Go microservices at scale | Kubernetes operators & CRDs | Backend/Platform engineering roles |
-| Real-time data pipelines | GCP & cloud-native patterns | Open source collaborations |
+| Fintech backend infra @ RupeeFlo | Kubernetes operators & CRDs | Backend / ML-systems roles (2027 grad) |
+| Go microservices & data pipelines | GCP & cloud-native patterns | Open source collaborations |
 | Production ML systems | Cloud-native architectures (GKE) | Interesting challenges |
 
 </div>
@@ -246,6 +257,7 @@ I'm passionate about building **production-grade systems** that solve complex pr
 <p>
   <a href="mailto:its.manas.sharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manas1104/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio.its-manas-sharma.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-43AA8B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 </p>
 
 **If you found my projects interesting, consider giving them a star**
