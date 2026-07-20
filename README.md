@@ -24,11 +24,11 @@
 ```typescript
 const manas = {
   pronouns: "he" | "him",
-  currently: "Backend Engineering Intern @ RupeeFlo (fintech)",
+  currently: "Final-year CS @ Manipal, open to 2027 new-grad roles",
+  recently: "Backend Engineering Intern @ RupeeFlo (fintech)",
   focus: ["Distributed Systems", "Backend Engineering", "Production ML"],
-  building: "NRI banking infrastructure with Django, Celery, and Redis",
   askMeAbout: ["Raft consensus", "gRPC", "K8s", "Django", "system design"],
-  funFact: "I built a Kafka-style broker in Go that pushes 100K+ msg/sec"
+  funFact: "I built a Kafka-style broker in Go that does 262K msg/s with fsync on"
 };
 ```
 
@@ -48,8 +48,8 @@ I'm passionate about building **production-grade systems** that solve complex pr
 
 ## ▸ Experience
 
-**Backend Engineering Intern** @ RupeeFlo (Fintech) · *May 2026 – Present*
-NRI banking & investment infrastructure. Migrated doc-generation pipelines into the core Django backend with a 0%-divergence parity harness; designed a 3-tier OTP fallback (WhatsApp → SMS → voice) on Celery/Redis with atomic SETNX locks; shipped an AI support draft generator to production (LLM tool-use, 10–13s drafts, 70% coverage on real tickets).
+**Backend Engineering Intern** @ RupeeFlo (Fintech) · *May 2026 – Jul 2026*
+NRI banking & investment infrastructure. Migrated doc-generation pipelines into the core Django backend, collapsing a 3-call chain into one API and cutting processing time 80%, with a 0%-divergence PDF-diff parity harness; designed a 3-tier OTP fallback (WhatsApp → SMS → voice) on Celery/Redis with atomic SETNX locks, serving 15,000+ users across 27 validated replay/race edge cases; shipped an AI support draft generator to production (LLM tool-use, ~90% faster drafting, 70% coverage on 78 real tickets).
 
 **Machine Learning Intern** @ Reliance Industries Ltd., Video Analytics · *May 2025 – Jul 2025*
 Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP streams at 30+ FPS; multi-camera spatial deduplication across overlapping FOVs.
@@ -71,11 +71,11 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-- ▪ HashiCorp Raft for metadata replication
-- ▪ Leader-follower partition replication
-- ▪ Consumer groups with offset tracking
-- ▪ Gzip/Snappy/LZ4 compression
-- ▪ 100K+ msg/sec throughput
+- ▪ 262K msg/s produce, fsync on (p99 56ms)
+- ▪ 723K fsync-off · 490K msg/s consume
+- ▪ HashiCorp Raft + ISR-acked replication
+- ▪ Controller/leader failover in ~10s
+- ▪ CRC32C segmented logs, reproducible bench
 
 </td>
 <td width="50%">
@@ -110,9 +110,9 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - ▪ 8 prompt variants (zero-shot → CoT+grounding)
-- ▪ 8-metric evaluation framework
+- ▪ 9-metric eval, 800 runs on 100 BDD100K scenes
+- ▪ Miss rate 28.9% → 26.2% (p<0.05, permutation)
 - ▪ AI error analysis agent + auto-prompt fix
-- ▪ BDD100K dataset with stratified sampling
 - ▪ Fine-tuning data export (LoRA/QLoRA)
 
 </td>
@@ -127,11 +127,11 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- ▪ 1.48M Mercari listings, 0.430 RMSLE
+- ▪ 1.48M Mercari listings, 0.420 RMSLE
+- ▪ Matches fine-tuned DistilBERT at 4.5x fewer params
 - ▪ BiLSTM + Attention + MLP fusion
-- ▪ Optuna tuning + SHAP explainability
-- ▪ ONNX export with validation
-- ▪ Full stack: API + Frontend + Docker
+- ▪ Optuna tuning, SHAP, ONNX export
+- ▪ LLM listing critique · GCP Cloud Run + CI
 
 </td>
 </tr>
@@ -242,8 +242,8 @@ Real-time occupancy detection with YOLOv11 + DeepSort across 10+ concurrent RTSP
 
 | Building | Learning | Open To |
 |----------|----------|---------|
-| Fintech backend infra @ RupeeFlo | Kubernetes operators & CRDs | Backend / ML-systems roles (2027 grad) |
-| Go microservices & data pipelines | GCP & cloud-native patterns | Open source collaborations |
+| Go distributed systems & benchmarks | Kubernetes operators & CRDs | Backend / ML-systems roles (2027 grad) |
+| LLM tool-use & eval pipelines | GCP & cloud-native patterns | Open source collaborations |
 | Production ML systems | Cloud-native architectures (GKE) | Interesting challenges |
 
 </div>
